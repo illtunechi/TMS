@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 16, 2014, 5:48:38 AM
+    Author     : j03
+*/
+
+body{
+    width: 1200px;
+    /* height: 250px; */
+    margin: 10px auto;
+
+    border: 1px #888888 solid;
+
+    -moz-box-shadow: 3px 5px 4px 2px #888888;
+    -webkit-box-shadow: 3px 5px 4px 2px #888888;
+    box-shadow: 3px 5px 4px 2px #888888;
+    
+    
+}
+
+
+h1 {
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    line-height: 65px;
+}
+ 
+p {
+    font-family: 'Lato', Georgia, Times, serif;
+    font-size: 18px;
+    line-height: 25px;
+}
